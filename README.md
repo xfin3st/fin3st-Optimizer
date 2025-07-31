@@ -4,6 +4,6 @@
 
 ## 🔗 Live Preview
 
-➡️ (optional) [https://xfin3st.github.io/fin3st-optimizer/](https://xfin3st.github.io/fin3st-optimizer/)
+➡️ (optional) [https://xfin3st.github.io/fin3st-Optimizer/](https://xfin3st.github.io/fin3st-Optimizer/)
 
 ---
